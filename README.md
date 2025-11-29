@@ -24,20 +24,11 @@
 
 ---
 
-## 📈 GitHub İstatistiklerim
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ErtugrulKaraos&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErtugrulKaraos&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🔗 İletişim
-📧 ertukarosman@hotmail.com  
+📧 ertu.karosman@hotmail.com  
 📸 Instagram: **@ertugrulkaros**
 
 ---
 
-<p align="center">
-  💙 Daha fazla proje yakında yükleniyor...
-</p>
